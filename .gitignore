@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+rag_storage/
+.streamlit/
